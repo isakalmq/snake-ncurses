@@ -1,7 +1,7 @@
 # snake-ncurses
 Simple snake game made with ncurses
 
-##Compile
-´´´
+## Compile
+```
 g++ main.cpp Snake.cpp -lncurses
-´´´
+```
